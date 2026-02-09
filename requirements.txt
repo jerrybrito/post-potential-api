@@ -1,0 +1,2 @@
+# Requires: temporal-duration
+# (Not available on PyPI)
